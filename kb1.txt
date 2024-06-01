@@ -1,0 +1,281 @@
+[
+    {
+        "question": "Consumer Web Self Service",
+        "answer": "Consumer Registration, Registered User Access, Facilities like tracking new connection status, name change, address correction, etc."
+    },
+    {
+        "question": "New Electricity Connection",
+        "answer": "Dashboard LT New Service Connection, Non-AG Change Name, Status Individual Change Name"
+    },
+    {
+        "question": "Change Tariff",
+        "answer": "New, Centralized Group Bill Payment"
+    },
+    {
+        "question": "Electricity bills calculation",
+        "answer": "Electricity bills are calculated based on your electricity usage (in kilowatt-hours, kWh) and applicable tariffs. You can view and pay your bill online through the Maharashtra State Electricity Distribution Co. Ltd. website."
+    },
+    {
+        "question": "Maharashtra State Electricity Board (MSEB)",
+        "answer": "Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL) is a subsidiary of MSEB responsible for electricity distribution in Maharashtra. MSEB provides various services including consumer registration, new electricity connections, bill payment, and more."
+    },
+    {
+        "question": "Dashboard LT New Service Connection",
+        "answer": "Dashboard LT New Service Connection provides an online platform for applying for a new LT (Low Tension) service connection."
+    },
+    {
+        "question": "Non-AG Change Name",
+        "answer": "Non-AG Change Name refers to the process of updating the registered consumer's name in the electricity records."
+    },
+    {
+        "question": "Status Individual Change Name",
+        "answer": "Status Individual Change Name allows consumers to check the progress and status of their name change request for electricity records."
+    },
+    {
+        "question": "Electricity bills calculation (repeated)",
+        "answer": "Electricity bills are calculated based on your electricity usage (in kilowatt-hours, kWh) and applicable tariffs. You can view and pay your bill online through the Maharashtra State Electricity Distribution Co. Ltd. website."
+    },
+    {
+        "question": "Value-Added Services",
+        "answer": "The MSEB portal offers additional services such as energy consumption analysis, outage alerts, and energy-saving tips. Consumers can also register for automatic bill payments, budget billing, and energy efficiency programs."
+    },
+    {
+        "question": "Customer Support",
+        "answer": "MSEB provides a dedicated customer support helpline for queries related to billing, outages, meter readings, and service requests. Consumers can reach out through phone, email, or visit the nearest MSEB customer service center for assistance."
+    },
+    {
+        "question": "Tariff Plans and Discounts",
+        "answer": "MSEB offers various tariff plans tailored to different consumer needs, including residential, commercial, and industrial sectors. Consumers may be eligible for discounts on their electricity bills based on factors such as usage patterns, time-of-use, and government subsidies."
+    },
+    {
+        "question": "Renewable Energy Initiatives",
+        "answer": "As part of its commitment to sustainability, MSEB promotes the adoption of renewable energy sources such as solar and wind power. Consumers can explore options for installing rooftop solar panels, participating in net metering programs, and accessing incentives for green energy investments."
+    },
+    {
+        "question": "Infrastructure Development",
+        "answer": "MSEB continually invests in upgrading and expanding its infrastructure to ensure reliable electricity supply across Maharashtra. This includes modernizing substations, installing smart meters, and implementing advanced grid management technologies."
+    },
+    {
+        "question": "Educational Resources",
+        "answer": "MSEB provides educational resources and workshops on energy conservation, electrical safety, and sustainable living practices. Consumers can access online tutorials, pamphlets, and interactive tools to learn about energy-efficient appliances and home upgrades."
+    },
+    {
+        "question": "Community Engagement",
+        "answer": "MSEB actively engages with local communities through outreach programs, awareness campaigns, and social initiatives. Consumers can participate in events, volunteer activities, and collaborative projects to support community development and environmental stewardship."
+    },
+    {
+        "question": "Regulatory Compliance",
+        "answer": "MSEB complies with all relevant regulations and standards set forth by government agencies and regulatory bodies. Consumers can access information on regulatory compliance, quality standards, and legal requirements through the MSEB website and customer service channels."
+    },
+    {
+        "question": "Future Outlook",
+        "answer": "MSEB is committed to innovation and progress in the energy sector, with plans for modernization, expansion, and diversification. Consumers can stay informed about upcoming projects, initiatives, and industry trends through MSEB communications and stakeholder engagements."
+    },
+     {
+        "question": "Maharashtra State Electricity Board (MSEB)",
+        "answer": "Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL) is a subsidiary of MSEB responsible for electricity distribution in Maharashtra. MSEB provides various services including consumer registration, new electricity connections, bill payment, and more."
+    },
+    {
+        "question": "Electricity Bills",
+        "answer": "Electricity bills are calculated based on your electricity usage (in kilowatt-hours, kWh) and applicable tariffs. You can view and pay your bill online through the Maharashtra State Electricity Distribution Co. Ltd. website."
+    },
+    {
+        "question": "Maharashtra State Electricity Board (MSEB)",
+        "answer": "Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL) is a subsidiary of MSEB responsible for electricity distribution in Maharashtra. MSEB provides various services including consumer registration, new electricity connections, bill payment, and more."
+    },
+    {
+        "question": "Electricity Bills",
+        "answer": "Electricity bills are calculated based on your electricity usage (in kilowatt-hours, kWh) and applicable tariffs. You can view and pay your bill online through the Maharashtra State Electricity Distribution Co. Ltd. website."
+    },
+    {
+        "question": "Maharashtra State Electricity Board (MSEB)",
+        "answer": "Maharashtra State Electricity Distribution Co. Ltd. (MSEDCL) is a subsidiary of MSEB responsible for electricity distribution in Maharashtra. MSEB provides various services including consumer registration, new electricity connections, bill payment, and more."
+    },
+    {
+        "question": "Electricity Bills",
+        "answer": "Electricity bills are calculated based on your electricity usage (in kilowatt-hours, kWh) and applicable tariffs. You can view and pay your bill online through the Maharashtra State Electricity Distribution Co. Ltd. website."
+    },
+{
+        "question": "What services may be suspended by Distribution Licensees according to the Practice Direction issued by the Regulator on March 26, 2020?",
+        "answer": "The Distribution Licensees may suspend other non-essential services that require visiting consumer premises or meeting consumers in person, such as Meter reading, Billing, Offline Bill Collection at Bill Payment Centers, release of new connections, etc."
+    },
+    {
+        "question": "How is an Average bill calculated?",
+        "answer": "An Average bill calculates average units based on the arithmetic average of the past 3 months' consumption, derived from actual meter readings."
+    },
+    {
+        "question": "Under what circumstances is an average bill sent for the current month?",
+        "answer": "An average bill is sent for the current month if the actual reading of your meter could not be taken due to unavoidable circumstances and the meter has a status other than normal reading."
+    },
+    {
+        "question": "What are the different meter statuses shown on electricity bills?",
+        "answer": "Different meter statuses shown on electricity bills include: Faulty, Lock, Meter change, Inaccessible, and RNT (Reading Not Taken)."
+    },
+    {
+        "question": "What precautionary measures were taken by MERC for the COVID-19 pandemic?",
+        "answer": "Activities such as Meter reading, testing, Bill distribution, and sub-divisional offices requiring human interaction were suspended, and only essential services related to Power supply were operational."
+    },
+    {
+        "question": "How were bills calculated during the COVID-19 pandemic?",
+        "answer": "Due to the situation, bills were calculated on an average as per directives. However, after the declaration of mission begin again, MSEDCL has resumed meter reading activities in the field, excluding containment areas, with the permission of district authorities."
+    },
+    {
+        "question": "How can consumers submit their meter readings?",
+        "answer": "Consumers can submit their meter readings through the Mahavitaran app or through the portal. MSEDCL has assigned a scheduled date for meter reading of each consumer, every month."
+    },
+    {
+        "question": "What steps are required to become an MSEDCL consumer and obtain a new connection?",
+        "answer": "To become an MSEDCL consumer and obtain a new connection, consumers must follow these steps: They must be the lawful owner or occupier of the premises where the connection is required. They must apply in the A-1 form at the respective section office for domestic or commercial connections, or at the sub-division/division office for industrial connections, along with any required no objection certificates. After a load survey, they will receive a quotation for payment of charges, including service connection charges, service line charges, and security deposit. Upon payment of the required charges, they must submit a test report from a licensed electrical contractor for the wiring. The service connection will be released as per the chronological order after all formalities are completed."
+    },
+    {
+        "question": "How is billing carried out after installation?",
+        "answer": "After installation, the billing section receives data containing meter details and initial meter readings. Bills are issued monthly, bimonthly, or quarterly for different consumer categories. Payment is to be made by the last due date shown on the bill."
+    },
+    {
+        "question": "How can consumers increase their sanctioned load?",
+        "answer": "To increase the sanctioned load, domestic, commercial, and industrial (LT) consumers should apply to the respective sectional and sub-divisional in charge. HT consumers should apply to the Superintending Engineer. After confirming feasibility, the load is sanctioned, and a quotation is issued, which includes additional service line charges."
+    },
+    {
+        "question": "How can consumers lodge a complaint?",
+        "answer": "In case of supply failure, consumers should contact the nearest fuse-off call center by phone or in person. For billing complaints, they should contact the division office in urban areas or the distribution center or sub-divisional office in rural areas. For major faults, restoration may take longer. In case of delayed complaint resolution, consumers may contact higher officers during working hours."
+    },
+    {
+        "question": "What safety measures should consumers follow?",
+        "answer": "Consumers should install safety equipment like earth leakage, overload, and short circuit protection. They should ensure healthy earthing and use ISI marked cables and equipment installed by licensed electrical contractors. They should use proper capacity fuse wire in cutouts and avoid tampering with meters. In case of fire, they should not use water; instead, use sand or fire-fighting equipment. They should also participate in periodic safety campaigns organized by MSEDCL and contact the nearest MSEDCL office in case of doubt."
+    },
+    {
+        "question": "What details are required to view and pay the bill?",
+        "answer": "To view and pay the bill, consumers need to provide the following details: Billing Unit (BU), Processing cycle (PC), and Consumer No. They will be able to see their bill amount and due date."
+    },
+    {
+        "question": "What are the restrictions on bill payment?",
+        "answer": "Consumers can't pay the bill without receiving an electronic bill or after the due date. Partial or excess payment against the bill is not allowed. They won't get a paper receipt from the biller for each payment made through e-PAY."
+    },
+    {
+        "question": "Which MSEB divisions allow online bill payment through SBI e-PAY?",
+        "answer": "Currently, customers belonging to any of the specified MSEB divisions can register and pay their electricity bills online through SBI e-PAY."
+    },
+    {
+        "question": "What are the statistics for MSEB Mumbai Divisions?",
+        "answer": "Total Divisions: 53, Highest Billing Unit: 3556, Lowest Billing Unit: 0051, Total Divisions with e-PAY Facility: 53."
+    },
+{
+        "question": "What is the purpose of the security deposit collected by MSEDCL from consumers?",
+        "answer": "The security deposit is collected to mitigate losses in case a consumer defaults on payment. It ensures that MSEDCL can disconnect the supply after providing due notice, allowing for further usage without payment."
+    },
+    {
+        "question": "How does MSEDCL calculate interest on security deposits?",
+        "answer": "MSEDCL pays interest on security deposits of Rs. 50 or more at a rate equal to the post office saving bank rate."
+    },
+    {
+        "question": "What are the different categories of consumers for whom bills are issued?",
+        "answer": "Bills are issued monthly, bimonthly, or quarterly for different consumer categories, including domestic, commercial, and industrial."
+    },
+    {
+        "question": "What is the procedure for increasing the sanctioned load for HT consumers?",
+        "answer": "HT consumers should apply to the Superintending Engineer to increase the sanctioned load. After confirming feasibility, a quotation is issued, which includes additional service line charges."
+    },
+    {
+        "question": "How can consumers estimate their electricity consumption?",
+        "answer": "Consumption depends on appliance capacity and usage period. Consumers can estimate their consumption using the provided link."
+    },
+    {
+        "question": "What are the avenues for consumers to submit complaints?",
+        "answer": "In case of supply failure, consumers should contact the nearest fuse-off call center by phone or in person. For billing complaints, they should contact the division office in urban areas or the distribution center or sub-divisional office in rural areas."
+    },
+    {
+        "question": "What are the benefits of participating in safety campaigns organized by MSEDCL?",
+        "answer": "Participating in safety campaigns helps consumers stay informed about safety measures and best practices, promoting a safer electrical environment."
+    },
+    {
+        "question": "How can consumers ensure proper payment of their bills through e-PAY?",
+        "answer": "Consumers should ensure that they receive an electronic bill before making payment. They should also make payment before the due date and avoid partial or excess payment against the bill."
+    },
+    {
+        "question": "What are the key features of SBI e-PAY for online bill payment?",
+        "answer": "SBI e-PAY allows customers to register and pay their electricity bills online. It provides a convenient and secure platform for bill payment, enhancing consumer experience."
+    },
+    {
+        "question": "What information is required for consumers to register and pay their electricity bills online through SBI e-PAY?",
+        "answer": "Consumers need to provide their division name and billing unit to register and pay their electricity bills online through SBI e-PAY."
+    },
+{
+        "question": "How can consumers update their contact information with MSEDCL?",
+        "answer": "Consumers can update their contact information by visiting the nearest MSEDCL customer service center or by accessing the online portal and following the instructions for updating personal details."
+    },
+    {
+        "question": "What happens if a consumer fails to pay their electricity bill on time?",
+        "answer": "Failure to pay the electricity bill on time may result in penalties or disconnection of the electricity supply. It's essential for consumers to adhere to the payment deadlines to avoid any disruptions in service."
+    },
+    {
+        "question": "Are there any discounts available for senior citizens on electricity bills?",
+        "answer": "Yes, some utility companies offer discounts on electricity bills for senior citizens. Consumers should inquire with their local electricity provider to learn about available discounts and eligibility criteria."
+    },
+    {
+        "question": "Can consumers track their electricity usage in real-time?",
+        "answer": "Yes, some utility companies provide online platforms or mobile apps that allow consumers to track their electricity usage in real-time. Consumers can monitor their usage patterns and take steps to conserve energy accordingly."
+    },
+    {
+        "question": "What should consumers do in case of suspected electricity theft in their neighborhood?",
+        "answer": "Consumers should report any suspected electricity theft or meter tampering to their local utility company or relevant authorities. Providing information about the location and nature of the suspected theft can help in investigating and addressing the issue."
+    },
+    {
+        "question": "How can consumers switch to renewable energy sources for their electricity needs?",
+        "answer": "Consumers interested in switching to renewable energy sources can explore options such as installing solar panels on their property, participating in community solar programs, or purchasing renewable energy certificates (RECs) from their utility provider."
+    },
+    {
+        "question": "What are the benefits of installing energy-efficient appliances in a home or business?",
+        "answer": "Energy-efficient appliances help reduce electricity consumption, lower utility bills, and minimize environmental impact. They also often come with features that enhance performance and durability, providing long-term cost savings for consumers."
+    },
+    {
+        "question": "How can consumers request a change in their electricity tariff plan?",
+        "answer": "Consumers can request a change in their electricity tariff plan by contacting their utility provider or visiting their online portal. The utility company will assess the consumer's eligibility and provide information about available tariff options."
+    },
+    {
+        "question": "What measures can consumers take to reduce their electricity bills?",
+        "answer": "Consumers can reduce their electricity bills by implementing energy-saving practices such as turning off lights when not in use, using energy-efficient appliances, sealing drafts in windows and doors, and adjusting thermostat settings to optimize energy usage."
+    },
+    {
+        "question": "How can consumers report power outages or electrical emergencies?",
+        "answer": "Consumers should report power outages or electrical emergencies to their utility provider's emergency hotline or customer service number. It's essential to provide accurate information about the location and nature of the outage to expedite restoration efforts."
+    },
+    {
+        "question": "What assistance programs are available for low-income consumers struggling to pay their electricity bills?",
+        "answer": "Many utility companies offer assistance programs for low-income consumers, including bill payment assistance, discounted rates, and energy efficiency upgrades. Consumers can inquire with their utility provider or local government agencies to learn about available programs and eligibility requirements."
+    },
+    {
+        "question": "Can consumers request an energy audit of their home or business to identify energy-saving opportunities?",
+        "answer": "Yes, consumers can request an energy audit from their utility provider or hire a certified energy auditor to assess their home or business's energy usage. The audit will identify areas for improvement and recommend energy-saving measures to reduce electricity consumption."
+    },
+    {
+        "question": "What steps should consumers take before moving to a new residence to ensure a smooth transition of electricity services?",
+        "answer": "Before moving to a new residence, consumers should contact their current utility provider to schedule disconnection of services at their old address and transfer of services to the new address. It's essential to provide accurate information and settle any outstanding bills to avoid disruptions in service."
+    },
+    {
+        "question": "Are there any rebates or incentives available for consumers who invest in energy-efficient home upgrades?",
+        "answer": "Yes, many utility companies and government agencies offer rebates or incentives for consumers who invest in energy-efficient home upgrades such as insulation, windows, heating and cooling systems, and appliances. Consumers should check with their utility provider or local authorities to learn about available programs."
+    },
+    {
+        "question": "How can consumers protect sensitive electronic devices from power surges and voltage fluctuations?",
+        "answer": "Consumers can protect sensitive electronic devices by using surge protectors or uninterruptible power supplies (UPS) that regulate voltage and provide backup power during outages. It's also advisable to unplug devices during thunderstorms or when not in use to prevent damage from power surges."
+    },
+    {
+        "question": "What should consumers do if they receive an unusually high electricity bill?",
+        "answer": "If consumers receive an unusually high electricity bill, they should first check their meter readings and compare them to previous bills to ensure accuracy. If discrepancies are found, they should contact their utility provider to investigate the issue and rectify any billing errors."
+    },
+    {
+        "question": "Can consumers request a payment extension or installment plan if they are unable to pay their electricity bill on time?",
+        "answer": "Yes, many utility companies offer payment extension or installment plan options for consumers facing financial difficulties. Consumers should contact their utility provider as soon as possible to discuss available payment assistance programs and make suitable arrangements."
+    },
+    {
+        "question": "What is the process for disputing a charge on an electricity bill?",
+        "answer": "If consumers believe there is an error or discrepancy in their electricity bill, they should contact their utility provider to dispute the charge. Providing supporting documentation and explaining the nature of the dispute can help in resolving the issue effectively."
+    },
+    {
+        "question": "How can consumers monitor their electricity usage and identify energy-intensive appliances?",
+        "answer": "Consumers can use energy monitoring devices or smart meters to track their electricity usage in real-time and identify energy-intensive appliances. Analyzing usage patterns and identifying areas of high consumption can help consumers make informed decisions about energy conservation."
+    },
+    {
+        "question": "Are there any tax credits or incentives available for consumers who invest in renewable energy systems such as solar panels?",
+        "answer": "Yes, many governments offer tax credits or incentives for consumers who invest in renewable energy systems such as solar panels. These incentives can help offset the initial cost of installation and encourage adoption of clean energy technologies."
+    }]
